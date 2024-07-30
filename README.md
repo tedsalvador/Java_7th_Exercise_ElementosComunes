@@ -41,32 +41,7 @@ Entregable:
 - Repositorio de git
 - Obligatorio realizar los pruebas unitarias
 
-# Diagrama de Clases
-+-------------------+<br>
-|    ArrayElement   |<br>
-+-------------------+<br>
-| - int value       |<br>
-| - int position1   |<br>
-| - int position2   |<br>
-+-------------------+<br>
-| + ArrayElement()  |<br>
-| + getValue()      |<br>
-| + getPosition1()  |<br>
-| + getPosition2()  |<br>
-| + toString()      |<br>
-+-------------------+<br>
-
-+--------------------------------------------------------+<br>
-|   ArrayService                                         |<br>
-+--------------------------------------------------------+<br>
-| + findCommonElements(int[], int[]): List<ArrayElement> |<br>
-+--------------------------------------------------------+<br>
-
-+-------------------+<br>
-|       Main        |<br>
-+-------------------+<br>
-| + main(String[])  |<br>
-+-------------------+<br>
+![Diagrama de Clases](UML/Diagrama_Clases.jpg)
 
 # Texto Enunciado:
 [Link Enunciado Elementos Comunes]https://docs.google.com/document/d/1qdHz1CkfiQ4T5CO6hDseqKauh-io8GmxqV4-w9uVejA/edit#heading=h.ardn09bhefvb
